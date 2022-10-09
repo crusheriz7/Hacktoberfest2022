@@ -5,4 +5,4 @@
 
 - Buka folder HF22
 - Create new File
-- Namain foldernya dengan user github kalian
+- Namain filenya dengan user github kalian

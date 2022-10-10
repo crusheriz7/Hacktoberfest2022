@@ -8,3 +8,4 @@
 - Namain filenya dengan user github kalian
 
 1. Ramdhani
+2. Jay
